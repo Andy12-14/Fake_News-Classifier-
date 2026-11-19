@@ -1,0 +1,11 @@
+#Install this on colab or on jupyter notebook to start the project:  
+#!pip install transformers datasets torch torchvision matplotlib seaborn numpy
+pandas
+datasets # if you are not on colab it is better to download the liar datasets without this library
+transformers
+# torch
+# torchvision # NOTE: for torch and torchvision if you are using your own GPU go on the pytorch documentation to install it in a way that will help you run on cuda
+matplotlib
+seaborn
+numpy
+sickit-learn
