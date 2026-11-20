@@ -2,7 +2,6 @@
 
 ## STRUCTURE
 
-'''bash
  .
 ├──  ISOT_datasets
 │   ├──  Fake.csv
@@ -13,7 +12,7 @@
         ├──  test.tsv
         ├──  train.tsv
         └──  valid.tsv
-'''
+
 
 ##  INFOS
 
