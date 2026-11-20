@@ -37,4 +37,4 @@
 
 -https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/ ( link of the page ) 
 
--https://onlineacademiccommunity.uvic.ca/isot/wp-content/uploads/sites/7295/2023/03/News-_dataset.zip(link to download)
+-https://onlineacademiccommunity.uvic.ca/isot/wp-content/uploads/sites/7295/2023/03/News-_dataset.zip ( link to download )
